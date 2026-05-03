@@ -42,11 +42,11 @@ We create beautiful, fast, and sales-focused websites. High-performance Web Desi
 
 In this GitHub, you will find projects and scripts that demonstrate our technical execution:
 
-*   🔒 **[http-security-scanner](#)** - Python tool for HTTP security auditing.
-*   ⚡ **[tavardt-elite-boilerplate](#)** - Our baseline template focused on achieving 100/100 on PageSpeed.
-*   📊 **[marketing-automation-scripts](#)** - Marketing automations and integrations (e.g., Google Ads scripts).
-*   🛡️ **[server-hardening-templates](#)** - Our baseline policies for Server protection.
-*   🖼️ **[image-optimizer-cli](#)** - Node.js mass optimization utility for Web performance.
+*   🔒 **[http-security-scanner](https://github.com/TAVARDT/http-security-scanner)** - Python tool for HTTP security auditing.
+*   ⚡ **[tavardt-elite-boilerplate](https://github.com/TAVARDT/tavardt-elite-boilerplate)** - Our baseline template focused on achieving 100/100 on PageSpeed.
+*   📊 **[marketing-automation-scripts](https://github.com/TAVARDT/marketing-automation-scripts)** - Marketing automations and integrations (e.g., Google Ads scripts).
+*   🛡️ **[server-hardening-templates](https://github.com/TAVARDT/server-hardening-templates)** - Our baseline policies for Server protection.
+*   🖼️ **[image-optimizer-cli](https://github.com/TAVARDT/image-optimizer-cli)** - Node.js mass optimization utility for Web performance.
 
 ---
 
@@ -95,11 +95,11 @@ Criamos sites bonitos, rápidos e focados em vender. Web Design com foco em alta
 
 Neste GitHub, você encontrará projetos e scripts que demonstram a nossa execução técnica:
 
-*   🔒 **[http-security-scanner](#)** - Ferramenta em Python para auditoria de segurança HTTP.
-*   ⚡ **[tavardt-elite-boilerplate](#)** - Nosso template base focado em atingir 100/100 no PageSpeed.
-*   📊 **[marketing-automation-scripts](#)** - Automações de Marketing e integração (ex: Google Ads scripts).
-*   🛡️ **[server-hardening-templates](#)** - Nossas políticas base para proteção de Servidores.
-*   🖼️ **[image-optimizer-cli](#)** - Utilitário Node.js de otimização massiva para performance Web.
+*   🔒 **[http-security-scanner](https://github.com/TAVARDT/http-security-scanner)** - Ferramenta em Python para auditoria de segurança HTTP.
+*   ⚡ **[tavardt-elite-boilerplate](https://github.com/TAVARDT/tavardt-elite-boilerplate)** - Nosso template base focado em atingir 100/100 no PageSpeed.
+*   📊 **[marketing-automation-scripts](https://github.com/TAVARDT/marketing-automation-scripts)** - Automações de Marketing e integração (ex: Google Ads scripts).
+*   🛡️ **[server-hardening-templates](https://github.com/TAVARDT/server-hardening-templates)** - Nossas políticas base para proteção de Servidores.
+*   🖼️ **[image-optimizer-cli](https://github.com/TAVARDT/image-optimizer-cli)** - Utilitário Node.js de otimização massiva para performance Web.
 
 ---
 

@@ -58,7 +58,7 @@ In this GitHub, you will find projects and scripts that demonstrate our technica
 <br>
 
 <a id="português"></a>
-<h1 align="center">TAVARDT. | Elite Digital Agency</h1>
+<h1 align="center">TAVARDT. | Agência de Marketing Digital 360°</h1>
 
 <p align="center">
   <strong>Sua marca é invisível. Nós transformamos negócios invisíveis em marcas reconhecidas e seguras no mercado digital.</strong><br>
@@ -104,5 +104,5 @@ Neste GitHub, você encontrará projetos e scripts que demonstram a nossa execu�
 ---
 
 <p align="center">
-  🌐 <a href="https://ag.tavardt.com">ag.tavardt.com</a> &nbsp; | &nbsp; ✉️ <a href="mailto:contact@tavardt.com">contact@tavardt.com</a>
+  🌐 <a href="https://ag.tavardt.com/br/">ag.tavardt.com/br/</a> &nbsp; | &nbsp; ✉️ <a href="mailto:contato@tavardt.com">contato@tavardt.com</a>
 </p>

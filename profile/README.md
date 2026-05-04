@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ag.tavardt.com/logo.png" alt="TAVARDT Elite Digital Agency" width="200" />
+  <img src="https://ag.tavardt.com/img/TAVARDT-GH.png" alt="TAVARDT Elite Digital Agency" width="1456" />
 </p>
 
 [🇺🇸 English](#english) | [🇧🇷 Português](#português)

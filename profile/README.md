@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://ag.tavardt.com/logo.png" alt="TAVARDT Elite Digital Agency" width="200" />
 </p>
-<p align="center">
+
 [🇺🇸 English](#english) | [🇧🇷 Português](#português)
-</p>
+
 <a id="english"></a>
 <h1 align="center">TAVARDT. | Elite Digital Agency</h1>
 

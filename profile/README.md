@@ -12,7 +12,7 @@
   <em>Branding, High-Performance Web Design, and Cybersecurity for companies tired of being generic.</em>
 </p>
 
----
+***
 
 ## ⚡ Our Solutions
 
@@ -36,25 +36,27 @@ Data-driven management of Google Ads and Meta Ads campaigns with ROI reports foc
 ### 6. Web Design
 We create beautiful, fast, and sales-focused websites. High-performance Web Design, top-tier UX/UI Design (Boutique Design), and a Mobile-First approach.
 
----
+***
 
 ## 🚀 Featured Repositories
 
 In this GitHub, you will find projects and scripts that demonstrate our technical execution:
 
-*   🔒 **[http-security-scanner](https://github.com/TAVARDT/http-security-scanner)** - Python tool for HTTP security auditing.
-*   ⚡ **[tavardt-elite-boilerplate](https://github.com/TAVARDT/tavardt-elite-boilerplate)** - Our baseline template focused on achieving 100/100 on PageSpeed.
-*   📊 **[marketing-automation-scripts](https://github.com/TAVARDT/marketing-automation-scripts)** - Marketing automations and integrations (e.g., Google Ads scripts).
-*   🛡️ **[server-hardening-templates](https://github.com/TAVARDT/server-hardening-templates)** - Our baseline policies for Server protection.
-*   🖼️ **[image-optimizer-cli](https://github.com/TAVARDT/image-optimizer-cli)** - Node.js mass optimization utility for Web performance.
+*   📜 **[engineering-standards](https://github.com/TAVARDT/engineering-standards)** : Official technical methodology and governance manifesto.
+*   🛰️ **[pulse](https://github.com/TAVARDT/pulse)** : Elite lightweight service monitoring and alerting tool.
+*   🔒 **[http-security-scanner](https://github.com/TAVARDT/http-security-scanner)** : Python tool for automated HTTP security auditing.
+*   🛡️ **[laravel-security](https://github.com/TAVARDT/laravel-security)** : Enterprise security middleware and headers for Laravel.
+*   🐳 **[cloud-native-security](https://github.com/TAVARDT/cloud-native-security)** : Hardened Docker images and templates for Node.js.
+*   ⚡ **[tavardt-elite-boilerplate](https://github.com/TAVARDT/tavardt-elite-boilerplate)** : Next.js baseline optimized for 100/100 PageSpeed.
+*   🛠️ **[n8n](https://github.com/TAVARDT/n8n)** : CLI utilities for managing self-hosted n8n instances.
 
----
+***
 
 <p align="center">
   🌐 <a href="https://ag.tavardt.com">ag.tavardt.com</a> &nbsp; | &nbsp; ✉️ <a href="mailto:contact@tavardt.com">contact@tavardt.com</a>
 </p>
 
----
+***
 <br>
 
 <a id="português"></a>
@@ -65,7 +67,7 @@ In this GitHub, you will find projects and scripts that demonstrate our technica
   <em>Branding, Web Design de Alta Performance e Cybersecurity para empresas cansadas de serem genéricas.</em>
 </p>
 
----
+***
 
 ## ⚡ Nossas Soluções
 
@@ -89,19 +91,21 @@ Gestão orientada a dados de campanhas de Google Ads e Meta Ads com relatórios 
 ### 6. Web Design
 Criamos sites bonitos, rápidos e focados em vender. Web Design com foco em alta performance, UX/UI Design de alto nível (Boutique Design) e abordagem Mobile-First.
 
----
+***
 
 ## 🚀 Repositórios em Destaque
 
 Neste GitHub, você encontrará projetos e scripts que demonstram a nossa execução técnica:
 
-*   🔒 **[http-security-scanner](https://github.com/TAVARDT/http-security-scanner)** - Ferramenta em Python para auditoria de segurança HTTP.
-*   ⚡ **[tavardt-elite-boilerplate](https://github.com/TAVARDT/tavardt-elite-boilerplate)** - Nosso template base focado em atingir 100/100 no PageSpeed.
-*   📊 **[marketing-automation-scripts](https://github.com/TAVARDT/marketing-automation-scripts)** - Automações de Marketing e integração (ex: Google Ads scripts).
-*   🛡️ **[server-hardening-templates](https://github.com/TAVARDT/server-hardening-templates)** - Nossas políticas base para proteção de Servidores.
-*   🖼️ **[image-optimizer-cli](https://github.com/TAVARDT/image-optimizer-cli)** - Utilitário Node.js de otimização massiva para performance Web.
+*   📜 **[engineering-standards](https://github.com/TAVARDT/engineering-standards)** : Metodologia técnica oficial e manifesto de governança.
+*   🛰️ **[pulse](https://github.com/TAVARDT/pulse)** : Ferramenta de elite para monitoramento leve e alertas.
+*   🔒 **[http-security-scanner](https://github.com/TAVARDT/http-security-scanner)** : Ferramenta em Python para auditoria de segurança HTTP.
+*   🛡️ **[laravel-security](https://github.com/TAVARDT/laravel-security)** : Middleware e cabeçalhos de segurança empresarial para Laravel.
+*   🐳 **[cloud-native-security](https://github.com/TAVARDT/cloud-native-security)** : Imagens Docker blindadas e templates para Node.js.
+*   ⚡ **[tavardt-elite-boilerplate](https://github.com/TAVARDT/tavardt-elite-boilerplate)** : Template Next.js otimizado para 100/100 no PageSpeed.
+*   🛠️ **[n8n](https://github.com/TAVARDT/n8n)** : Utilitários CLI para gestão de instâncias n8n locais.
 
----
+***
 
 <p align="center">
   🌐 <a href="https://ag.tavardt.com/br/">ag.tavardt.com/br/</a> &nbsp; | &nbsp; ✉️ <a href="mailto:contato@tavardt.com">contato@tavardt.com</a>

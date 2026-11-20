@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ag.tavardt.com">
-    <img src="https://ag.tavardt.com/logo.png" alt="TAVARDT Logo" width="220" />
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
   </a>
 </p>
 

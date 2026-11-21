@@ -91,13 +91,13 @@ This global organization maintains foundational engineering standards, infrastru
 
 ### 4. Technical Diagnostic Suite: tools.tavardt.com
 
-TAVARDT operates a free client-side diagnostic suite covering 20 essential web security, performance, and SEO checks across all supported languages:
+TAVARDT operates a free client-side diagnostic suite covering 21 essential web security, performance, and SEO checks across all supported languages:
 
 * **Technical SEO**: XML Sitemap Validator, Robots.txt Validator, Broken Links Checker, 301 Redirect Tracker, Hreflang Validator, Consent Mode v2 Validator.
 * **On-Page SEO**: Canonical Tag Checker, H1-H6 Hierarchy Validator, Meta Tags Inspector, Image SEO Validator.
 * **AI Readiness & Schema**: Schema Markup Validator, AI Search Readiness & GEO Auditor.
 * **Performance & Mobile**: Core Web Vitals Tester, Mobile SEO Tester, Paid Traffic ROI Calculator.
-* **Security & Perimeter**: DMARC / SPF / BIMI Verifier, HTTP Security Headers Checker, Hacked Site & SEO Spam Detector, Exposed .env Files Scanner, CMS & WordPress Vulnerability Scanner.
+* **Security & Perimeter**: DMARC / SPF / BIMI Verifier, HTTP Security Headers Checker, Hacked Site & SEO Spam Detector, Exposed .env Files Scanner, CMS & WordPress Vulnerability Scanner, LLM Robustness & Guardrails Evaluator.
 
 Access the diagnostic suite at [tools.tavardt.com](https://tools.tavardt.com/).
 
@@ -160,7 +160,19 @@ Esta organização central mantém repositórios corporativos de referência té
 
 ---
 
-### 4. Governança e Contato
+### 4. Central de Diagnósticos Técnicos: tools.tavardt.com
+
+A TAVARDT opera uma suíte gratuita de 21 ferramentas de diagnóstico técnico para cibersegurança, performance e SEO cobrindo 11 jurisdições:
+
+* **Cibersegurança & Defesa de IA**: Avaliador de Robustez de LLM & Testador de Guardrails, Verificador DMARC & SPF, Análise de Cabeçalhos HTTP, Detector de SEO Spam e Malware, Scanner de Arquivos Expostos, Scanner de Vulnerabilidades CMS.
+* **SEO Técnico & Busca por IA**: Validador de Schema Markup, Auditor de Busca IA & GEO, Validador de Sitemap XML, Validador de Robots.txt, Verificador de Redirecionamentos 301, Verificador de Links Quebrados, Validador de Hreflang, Validador de Consent Mode v2.
+* **Performance & Mobile**: Teste de Core Web Vitals, Teste de SEO Mobile, Tag Canônica, Hierarquia H1-H6, Meta Tags, SEO de Imagens, Calculadora de ROI de Tráfego Pago.
+
+Acesse a suíte de diagnósticos em [tools.tavardt.com](https://tools.tavardt.com/).
+
+---
+
+### 5. Governança e Contato
 
 * **Portal Oficial**: [https://ag.tavardt.com](https://ag.tavardt.com)
 * **Central de Ferramentas Técnicas**: [https://tools.tavardt.com](https://tools.tavardt.com)
